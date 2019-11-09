@@ -1,14 +1,38 @@
 {
-  "name": "react-native-minimize",
-  "version": "1.0.12",
+  "_from": "react-native-minimize",
+  "_id": "react-native-minimize@1.0.12",
+  "_inBundle": false,
+  "_integrity": "sha512-hD4Kesa7IJvlm79vDjhQiuvki0viMw4C3dxsw8i3vHzkz0R7aAerrsEDVGgQu6Rc/yRISevQOkh7HqV8mvwvvA==",
+  "_location": "/react-native-minimize",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-minimize",
+    "name": "react-native-minimize",
+    "escapedName": "react-native-minimize",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-minimize/-/react-native-minimize-1.0.12.tgz",
+  "_shasum": "dd56197fb3fd6e8553cfa3686f939120309f3324",
+  "_spec": "react-native-minimize",
+  "_where": "/Users/ilyalazarev/src/recornapp",
+  "author": {
+    "name": "Farzad Zare"
+  },
+  "bugs": {
+    "url": "https://github.com/FarzadMarius/react-native-minimize-app/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
   "description": "Minimize app for React Native on Android And iOS.",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/FarzadMarius/react-native-minimize-app"
-  },
+  "homepage": "https://instagram.com/farzad_zare",
   "keywords": [
     "react",
     "native",
@@ -18,10 +42,14 @@
     "android",
     "ios"
   ],
-  "author": "Farzad Zare",
   "license": "Farzad Marius",
-  "bugs": {
-    "url": "https://github.com/FarzadMarius/react-native-minimize-app/issues"
+  "name": "react-native-minimize",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FarzadMarius/react-native-minimize-app.git"
   },
-  "homepage": "https://instagram.com/farzad_zare"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.12"
 }
