@@ -1,35 +1,37 @@
 {
-  "_from": "react-native-minimize",
-  "_id": "react-native-minimize@1.0.12",
+  "_args": [
+    [
+      "git+https://github.com/ilya-bmi/react-native-minimize-app.git",
+      "/Users/ilyalazarev/src/recorn-rn61-test"
+    ]
+  ],
+  "_from": "git+https://github.com/ilya-bmi/react-native-minimize-app.git",
+  "_id": "react-native-minimize@git+https://github.com/ilya-bmi/react-native-minimize-app.git#4601bad9aa17b2087f881ff8fe4921ff46b7b221",
   "_inBundle": false,
-  "_integrity": "sha512-hD4Kesa7IJvlm79vDjhQiuvki0viMw4C3dxsw8i3vHzkz0R7aAerrsEDVGgQu6Rc/yRISevQOkh7HqV8mvwvvA==",
+  "_integrity": "",
   "_location": "/react-native-minimize",
   "_phantomChildren": {},
   "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "react-native-minimize",
-    "name": "react-native-minimize",
-    "escapedName": "react-native-minimize",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
+    "type": "git",
+    "raw": "git+https://github.com/ilya-bmi/react-native-minimize-app.git",
+    "rawSpec": "git+https://github.com/ilya-bmi/react-native-minimize-app.git",
+    "saveSpec": "git+https://github.com/ilya-bmi/react-native-minimize-app.git",
+    "fetchSpec": "https://github.com/ilya-bmi/react-native-minimize-app.git",
+    "gitCommittish": null
   },
   "_requiredBy": [
-    "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/react-native-minimize/-/react-native-minimize-1.0.12.tgz",
+  "_resolved": "git+https://github.com/ilya-bmi/react-native-minimize-app.git#4601bad9aa17b2087f881ff8fe4921ff46b7b221",
   "_shasum": "dd56197fb3fd6e8553cfa3686f939120309f3324",
-  "_spec": "react-native-minimize",
-  "_where": "/Users/ilyalazarev/src/recornapp",
+  "_spec": "git+https://github.com/ilya-bmi/react-native-minimize-app.git",
+  "_where": "/Users/ilyalazarev/src/recorn-rn61-test",
   "author": {
     "name": "Farzad Zare"
   },
   "bugs": {
     "url": "https://github.com/FarzadMarius/react-native-minimize-app/issues"
   },
-  "bundleDependencies": false,
   "deprecated": false,
   "description": "Minimize app for React Native on Android And iOS.",
   "homepage": "https://instagram.com/farzad_zare",
